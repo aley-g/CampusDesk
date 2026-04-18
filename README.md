@@ -1,4 +1,5 @@
 LibSpace - Library Seat & Room Booking System
+
 React / Vite / TailwindCSS / Zustand / Firebase
 
 A robust, full-stack React-based reservation system developed for managing university library study spaces.
