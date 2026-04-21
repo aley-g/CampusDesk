@@ -1,4 +1,4 @@
-LibSpace - Library Seat & Room Booking System
+CampusDesk - Library Seat & Room Booking System
 
 React / Vite / TailwindCSS / Zustand / Firebase
 
@@ -37,8 +37,12 @@ npm run dev
 Open http://localhost:5173 in your browser.
 
 🔑 Demo Accounts
-Use the following credentials to explore different roles (Password for all: password123):
+Use the following credentials to explore different roles 
+
+(Password for all: password123):
 
 Student: student@demo.com
+
 Librarian: librarian@demo.com
+
 Manager: manager@demo.com
